@@ -1,0 +1,7 @@
+.DS_Store
+**/.DS_Store
+
+# Qt / CMake build output
+qt/build/
+
+/net-commander
